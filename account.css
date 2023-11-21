@@ -1,0 +1,46 @@
+body{
+    background-color: lightgreen;
+    font-family: 'poppins', sans-seriff;
+}
+.input_field{
+    padding: 10px;
+    margin: 5px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+        .header{
+            background-color: lightgreen;
+            }
+
+        .navbar{
+            display: flex;
+            align-items: center;
+            padding: 20px;
+            }
+            
+            nav{
+            flex: 1;
+            text-align: right;
+            }
+            
+            nav ul{
+            display: inline-block;
+            list-style: none;
+            }
+            
+            nav ul li{
+            display: inline-block;
+            margin-right: 20px;
+            }
+            
+            a{
+            text-decoration: none;
+            color: #555; 
+            }
+            
+            p{
+            color: #555;
+            }
